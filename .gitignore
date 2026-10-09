@@ -1,0 +1,4 @@
+data/관광공사_지역별_방문자수.csv
+.venv/
+.env
+__pycache__/
